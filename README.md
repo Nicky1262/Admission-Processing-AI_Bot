@@ -4,10 +4,14 @@ AI-Enhanced Transcript Processing and Admission Evaluation Bot is a cutting-edge
 
 In order to run this project You need one platform which plays a hardcore role in this AI advanced Bot 
 UI Path (Community Edition) Download Link : https://www.uipath.com/product/studio
-    1. Open the given link and click on " DOWNLOAD UI PATH STUDIO FOR DESKTOP "
-    2. Once the download is completed open and install the setup 
+
+1. Open the given link and click on " DOWNLOAD UI PATH STUDIO FOR DESKTOP "
+
+2. Once the download is completed open and install the setup 
     " NOTE : Make sure you have a new/old working gmail account and signup with that mail into UI Path"
-    3. Make sure you select the community Edition while you installing the software
-    4. Finally open the platform by logging in with your Gmail and go through the tutorials 
+
+3. Make sure you select the community Edition while you installing the software
+
+4. Finally open the platform by logging in with your Gmail and go through the tutorials 
        here is a small brief tutorials of this platform : https://youtu.be/OyQAhrcBr9U?si=sVp97CaQmdl23O-z
     

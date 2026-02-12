@@ -1,2 +1,3 @@
 # Admission-Processing-AI_Bot
 An UiPath bot that can OCR extract the student’s transcript and does the basic admission evaluation using GEN AI
+AI-Enhanced Transcript Processing and Admission Evaluation Bot is a cutting-edge solution designed to revolutionize the way educational institutions handle student applications. By utilizing advanced artificial intelligence technologies such as natural language processing and machine learning, the bot automates the extraction and interpretation of academic data from transcripts of various formats and standards. This ensures accurate and consistent processing, saving valuable time and reducing the risk of human errors commonly associated with manual transcript evaluation.

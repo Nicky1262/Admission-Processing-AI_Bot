@@ -1,0 +1,7 @@
+This project will only run on the transcripts which has only text in the Pdf's and it does the OCR for the PDF's which has text so do not upload the PDF's which has other than text 
+
+Make sure You have some transcripts locally stored in your drive 
+
+Also UI PATH ORCHESTRATOR is the main heart of this platform so make sure You learn know about how to manage the Orchestrator 
+
+If you don't Know about Orchestrator watch this small tutorial that how to manage : https://youtu.be/z3p5hmPsGdU?si=cKVo9RRK1YQdECKK
